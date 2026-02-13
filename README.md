@@ -166,4 +166,6 @@ This project demonstrates:
 * Professional reporting & presentation skills
 
 ---
+<img width="1129" height="623" alt="image" src="https://github.com/user-attachments/assets/38d094ea-fe3d-45e1-ab2b-07217ddc3c06" />
+
 
